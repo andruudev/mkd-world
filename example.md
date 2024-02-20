@@ -9,6 +9,7 @@ Hey everyone, I'm **Jeyson Andres Mueses** _(Andruudev)_. Full-Stack JavaScript 
 - JavaScript
 - Nodejs
 - Nextjs
+- Python
 
 #### My top comands
 | Number | Command | 
